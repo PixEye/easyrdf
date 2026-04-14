@@ -103,7 +103,7 @@ class Client
     }
 
     /**
-     * @depredated
+     * @deprecated
      * @ignore
      */
     public function getUri()
